@@ -11,8 +11,6 @@
 
 - Allow for continuous evolution of the equation
 
-
-
 # Resources
 
 ## Canvas
@@ -29,9 +27,7 @@ Not found/understood
 - Plotters support?
 
 - Webgl in yew? (use shaders)
+  
   - https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL
   - https://github.com/yewstack/yew/tree/master/examples/webgl
   - https://examples.yew.rs/webgl/
-
-
-

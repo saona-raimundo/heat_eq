@@ -1,4 +1,7 @@
 # heat_eq
+
+WARNING: WORK IN PROGRESS.
+
 [Heat equation](https://en.wikipedia.org/wiki/Heat_equation) solver, online!
 
 ## Algorithm
@@ -7,7 +10,7 @@ Numerical convolution with the heat kernel.
 
 ## Usage
 
-Go to the [online solver](https://saona-raimundo.github.io/virus_alert/examples/yew_app/static/index.html)! (you may need to refresh your website to view correctly)
+Go to the online solver (THIS SHOULD BE A LINK)! (you may need to refresh your website to view correctly)
 
 ## Related projects
 
